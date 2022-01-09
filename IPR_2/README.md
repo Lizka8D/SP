@@ -10,4 +10,4 @@
 ![Screenshot](Picture3.jpg)
 ![Screenshot](Picture4.jpg)
 
-### Примечание:
+### Примечание: в строке `all_files = FindFile(L"C:\\Users\\lizab\\source", all_files);` файла ConsoleApplication.cpp необходимо ввести перед началом работы имя папки
