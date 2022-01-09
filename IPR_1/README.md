@@ -2,6 +2,6 @@
 
 ## Выполнение программы:
 
-![Screenshot](Picture1.png)
-![Screenshot](Picture2.png)
-![Screenshot](Picture3.png)
+![Screenshot](Picture1.jpg)
+![Screenshot](Picture2.jpg)
+![Screenshot](Picture3.jpg)
