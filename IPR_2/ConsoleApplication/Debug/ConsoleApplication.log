@@ -1,0 +1,4 @@
+﻿  ConsoleApplication.cpp
+C:\Users\lizab\Study\5_semester\SP\IPR_2\ConsoleApplication\ConsoleApplication.cpp(96,68): warning C4244: =: преобразование "LONGLONG" в "ULONG", возможна потеря данных
+C:\Users\lizab\Study\5_semester\SP\IPR_2\ConsoleApplication\ConsoleApplication.cpp(99,40): warning C4244: =: преобразование "LONGLONG" в "SIZE_T", возможна потеря данных
+  ConsoleApplication.vcxproj -> C:\Users\lizab\Study\5_semester\SP\IPR_2\ConsoleApplication\Debug\ConsoleApplication.exe
